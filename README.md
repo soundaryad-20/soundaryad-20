@@ -1,6 +1,5 @@
 # 💫 About Me:
- I'm Currently learning<br> I'm Engineering student
-
+ I'm Currently learning<br> I'm Engineering student<br>check out my resume here - [Link](https://drive.google.com/file/d/1ARXEb0VSXnOi8QXaDZ60CAN0Vt8ATphx/view?usp=drivesdk)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Soundarya D) 
